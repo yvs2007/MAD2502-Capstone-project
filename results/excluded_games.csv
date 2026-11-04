@@ -1,0 +1,6 @@
+season,date,away_team,home_team,neutral_site,away_q1,away_q2,away_q3,away_q4,away_final,home_q1,home_q2,home_q3,home_q4,home_final,open_home_spread,close_home_spread,open_total,close_total,away_ml,home_ml,second_half_home_spread,second_half_total
+2019-20,2019-12-19,Houston,LAClippers,False,27,27,36,32,122,28,41,18,30,117,-5.5,,233.0,,180,-220,2.5,115.0
+2021-22,2022-02-24,Denver,Sacramento,False,35,28,29,36,128,25,33,29,23,110,3.5,,229.0,,-165,145,1.0,115.0
+2021-22,2022-02-27,Denver,Portland,False,32,33,21,38,124,27,21,22,22,92,7.5,,230.5,,-340,280,-0.5,110.5
+2022-23,2023-01-01,Sacramento,Memphis,False,26,32,29,21,108,27,32,32,27,118,-5.5,,231.5,,150,-170,-2.5,116.5
+2022-23,2023-01-01,Washington,Milwaukee,False,34,34,20,30,118,17,33,20,25,95,-9.0,,225.5,,115,-135,-6.0,114.0

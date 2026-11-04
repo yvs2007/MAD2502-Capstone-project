@@ -1,0 +1,12 @@
+Games loaded: 5613
+Columns loaded: 23
+Games analyzed: 5608
+Games excluded: 5
+
+Closing spread
+Mean error: -0.035
+Mean absolute error: 10.260
+
+Closing total
+Mean error: 0.501
+Mean absolute error: 14.392

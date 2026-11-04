@@ -1,0 +1,6 @@
+season,date,away_team,home_team,neutral_site,away_q1,away_q2,away_q3,away_q4,away_final,home_q1,home_q2,home_q3,home_q4,home_final,open_home_spread,close_home_spread,open_total,close_total,away_ml,home_ml,second_half_home_spread,second_half_total
+2018-19,2018-10-16,Philadelphia,Boston,False,21,21,24,21,87,21,26,30,28,105,-5.0,-4.5,208.5,211.5,170,-200,-1.0,106.0
+2018-19,2018-10-16,OklahomaCity,GoldenState,False,23,24,32,21,100,31,26,26,25,108,-11.5,-12.0,223.5,220.5,711,-1100,-4.5,108.5
+2018-19,2018-10-17,Memphis,Indiana,False,16,23,19,25,83,27,29,20,35,111,-7.0,-7.5,209.0,204.5,263,-325,1.0,99.0
+2018-19,2018-10-17,Milwaukee,Charlotte,False,36,31,26,20,113,23,31,29,29,112,1.5,3.0,217.0,222.0,-165,144,-2.5,114.0
+2018-19,2018-10-17,Miami,Orlando,False,31,20,27,23,101,25,29,25,25,104,2.0,2.5,210.5,208.0,-135,115,3.0,103.0

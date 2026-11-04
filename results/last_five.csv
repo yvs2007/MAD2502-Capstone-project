@@ -1,0 +1,6 @@
+season,date,away_team,home_team,neutral_site,away_q1,away_q2,away_q3,away_q4,away_final,home_q1,home_q2,home_q3,home_q4,home_final,open_home_spread,close_home_spread,open_total,close_total,away_ml,home_ml,second_half_home_spread,second_half_total
+2022-23,2023-01-16,GoldenState,Washington,False,35,34,24,34,127,33,31,29,25,118,0.5,3.0,237.0,234.5,-140,120,0.5,114.5
+2022-23,2023-01-16,Miami,Atlanta,False,26,24,30,33,113,38,32,21,30,121,1.0,-1.0,222.5,223.0,-105,-115,5.0,108.5
+2022-23,2023-01-16,Utah,Minnesota,False,27,25,35,39,126,27,31,37,30,125,-0.5,-4.0,234.5,232.0,155,-175,-0.0,119.0
+2022-23,2023-01-16,Phoenix,Memphis,False,36,29,23,18,106,29,39,39,29,136,-10.0,-12.5,225.5,231.0,550,-800,-6.5,118.0
+2022-23,2023-01-16,Houston,LALakers,False,35,26,37,34,132,37,36,29,38,140,-0.5,-7.5,234.5,236.5,240,-280,-0.0,116.0
